@@ -1,0 +1,10 @@
+C:\Users\Леонид\source\repos\numerical_methods2\numerical_methods2\bin\Release\numerical_methods2.exe.config
+C:\Users\Леонид\source\repos\numerical_methods2\numerical_methods2\bin\Release\numerical_methods2.exe
+C:\Users\Леонид\source\repos\numerical_methods2\numerical_methods2\bin\Release\numerical_methods2.pdb
+C:\Users\Леонид\source\repos\numerical_methods2\numerical_methods2\obj\Release\numerical_methods2.csprojAssemblyReference.cache
+C:\Users\Леонид\source\repos\numerical_methods2\numerical_methods2\obj\Release\numerical_methods2.Form1.resources
+C:\Users\Леонид\source\repos\numerical_methods2\numerical_methods2\obj\Release\numerical_methods2.Properties.Resources.resources
+C:\Users\Леонид\source\repos\numerical_methods2\numerical_methods2\obj\Release\numerical_methods2.csproj.GenerateResource.cache
+C:\Users\Леонид\source\repos\numerical_methods2\numerical_methods2\obj\Release\numerical_methods2.csproj.CoreCompileInputs.cache
+C:\Users\Леонид\source\repos\numerical_methods2\numerical_methods2\obj\Release\numerical_methods2.exe
+C:\Users\Леонид\source\repos\numerical_methods2\numerical_methods2\obj\Release\numerical_methods2.pdb
